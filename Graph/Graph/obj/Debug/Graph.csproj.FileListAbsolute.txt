@@ -1,0 +1,7 @@
+C:\Users\treed\source\repos\Graph\Graph\bin\Debug\Graph.exe.config
+C:\Users\treed\source\repos\Graph\Graph\bin\Debug\Graph.exe
+C:\Users\treed\source\repos\Graph\Graph\bin\Debug\Graph.pdb
+C:\Users\treed\source\repos\Graph\Graph\obj\Debug\Graph.csprojAssemblyReference.cache
+C:\Users\treed\source\repos\Graph\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\Users\treed\source\repos\Graph\Graph\obj\Debug\Graph.exe
+C:\Users\treed\source\repos\Graph\Graph\obj\Debug\Graph.pdb
